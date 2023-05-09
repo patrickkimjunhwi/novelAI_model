@@ -4,21 +4,6 @@
 	"FadeOutTime": 2,
 	"Parameters": [
 		{
-			"Id": "ParamAngleY",
-			"Value": 13.256,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamEyeLOpen",
-			"Value": -1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamEyeLSmile",
-			"Value": 1,
-			"Blend": "Add"
-		},
-		{
 			"Id": "ParamEyeROpen",
 			"Value": -1,
 			"Blend": "Add"
@@ -39,22 +24,12 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "Param5",
-			"Value": 1,
+			"Id": "ParamEyeLOpen",
+			"Value": -1,
 			"Blend": "Add"
 		},
 		{
-			"Id": "Param6",
-			"Value": 1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param8",
-			"Value": 1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param7",
+			"Id": "ParamEyeLSmile",
 			"Value": 1,
 			"Blend": "Add"
 		}
