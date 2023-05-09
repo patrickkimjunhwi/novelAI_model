@@ -8,6 +8,24 @@
 		"Physics": "novelAI_model.physics3.json",
 		"DisplayInfo": "novelAI_model.cdi3.json"
 	},
+	"expressions": [
+		{
+		  "name": "expression0.exp3.json",
+		  "file": "expressions/expression0.exp3.json"
+		},
+		{
+			"name": "expression1.exp3.json",
+			"file": "expressions/expression1.exp3.json"
+		},
+		{
+			"name": "expression2.exp3.json",
+			"file": "expressions/expression2.exp3.json"
+		},
+		{
+			"name": "expression3.exp3.json",
+			"file": "expressions/expression3.exp3.json"
+		}
+	],
 	"Groups": [
 		{
 			"Target": "Parameter",
